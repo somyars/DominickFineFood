@@ -26,3 +26,7 @@ Additionally, we have justified how the proposed schema satisfies the business n
 
 ## SSAS
 ![Repo List](screenshots/SSAS.PNG)
+
+## Datawarehouse Schema
+Dimensions dim_date, dim_product and dim_store have auto-generated surrogate keys namely date_key, product_key and store_key which are referenced in fact table fact_product_sales. The combination of keys date_key, product_key and store_key are composite primary key for the fact table.
+![Repo List](screenshots/DW.PNG)
