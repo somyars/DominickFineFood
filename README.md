@@ -11,7 +11,7 @@ Additionally, we have justified how the proposed schema satisfies the business n
 - Report Builder 3.0
 
 ## ERD
-![Repo List] (screenshots/ERD.PNG)
+![Repo List](screenshots/ERD.PNG)
 
 ## Business Questions
 1. What is the sales trend for Thanksgiving week each year? Which products had the highest sale over the years during this time?
@@ -22,7 +22,7 @@ Additionally, we have justified how the proposed schema satisfies the business n
 
 
 ## ETL 
-![Repo List] (screenshots/ETL.PNG)
+![Repo List](screenshots/ETL.PNG)
 
 ## SSAS
-![Repo List] (screenshots/SSAS.PNG)
+![Repo List](screenshots/SSAS.PNG)
