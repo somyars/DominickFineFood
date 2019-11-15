@@ -1,4 +1,4 @@
-#Dominick Fine Foods
+# Dominick Fine Foods
 The objective of this project is to present a logical and physical design for Dominick’s Fine Foods. 
 We justify why dimensional modeling using Kimball’s methodology is appropriate to address the business requirements. 
 We have presented the logical model using star schema that satisfies the requirement to answer the selected business questions. 
